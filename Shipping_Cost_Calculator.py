@@ -1,5 +1,4 @@
 # Here is a new update by pnlemke
-# Here is another update by pnlemke
 
 # Shipping Cost Calculator
 
